@@ -11,8 +11,8 @@
         <div style="color:red"><h5>${error}</h5></div>
         <form action="/signin" method="post">
             <div>
-                <label for="username">Username:</label>
-                <input type="text" id="username" name="username" required><br>
+                <label for="userName">Username:</label>
+                <input type="text" id="userName" name="userName" required><br>
             </div>
             <div><br></div>
             <div>
